@@ -1,0 +1,18 @@
+to make a directory:
+python3 client.py mkdir [dir_name]
+
+to upload a file:
+python3 client.py put [file_path] root/[destination]
+
+to get/downlaod a file:
+python3 client.py get [directory_name]
+
+to move a directory:
+python3 client.py move [source] [destination]
+
+to copy a directory:
+python3 client.py copy [source] [destination]
+
+to delete a directory:
+python3 client.py delete [path_to _directory]
+
